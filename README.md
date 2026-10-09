@@ -5,13 +5,14 @@ Portfolio en français : Stiddi, MapToSelf, Getaround et Speed Dating, avec form
 ## Fichiers
 
 - `index.html` : page complète, styles intégrés, adaptée aux écrans mobiles.
+- `assets/stiddi-brand.jpg` : visuel original de Stiddi fourni par l’auteure.
 - `.nojekyll` : publication des fichiers statiques sans traitement Jekyll.
 
 Aucune installation ni compilation n’est nécessaire.
 
 ## Prochaines améliorations
 
-Ajouter le lien App Store et les détails techniques de Stiddi. Remplacer la composition typographique illustrative par de vraies captures si souhaité.
+Ajouter le lien App Store et les détails techniques de Stiddi. Ajouter des captures de l’application pour compléter le visuel de Stiddi si souhaité.
 
 ## Données publiées
 
