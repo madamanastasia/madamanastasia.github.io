@@ -5,6 +5,7 @@ Portfolio en français : Stiddi, MapToSelf, Getaround et Speed Dating, avec form
 ## Fichiers
 
 - `index.html` : page complète, styles intégrés, adaptée aux écrans mobiles.
+- `assets/anastasiia-portrait.png` : photographie fournie par l’auteure pour le portfolio.
 - `assets/stiddi-brand.jpg` : visuel original de Stiddi fourni par l’auteure.
 - `.nojekyll` : publication des fichiers statiques sans traitement Jekyll.
 
