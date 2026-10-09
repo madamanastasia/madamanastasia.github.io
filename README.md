@@ -1,6 +1,6 @@
 # Portfolio · GitHub Pages
 
-Première version du portfolio en français, centrée sur le projet Stiddi.
+Portfolio en français : Stiddi, MapToSelf, Getaround et Speed Dating, avec formation, compétences et expérience professionnelle sélectionnée.
 
 ## Fichiers
 
@@ -11,7 +11,11 @@ Aucune installation ni compilation n’est nécessaire.
 
 ## Prochaines améliorations
 
-Ajouter les coordonnées professionnelles, le lien App Store et les détails techniques du projet. Remplacer la composition typographique illustrative par de vraies captures si souhaité.
+Ajouter le lien App Store et les détails techniques de Stiddi. Remplacer la composition typographique illustrative par de vraies captures si souhaité.
+
+## Données publiées
+
+Le site présente les informations professionnelles utiles au portfolio et les liens publics GitHub et LinkedIn. Le CV original, le téléphone, l’adresse e-mail et la localisation personnelle précise ne sont pas publiés.
 
 ## Publication prévue
 
