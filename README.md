@@ -1,10 +1,11 @@
 # Portfolio · GitHub Pages
 
-Portfolio en français : Stiddi, Getaround et Speed Dating, avec formation, compétences et expérience professionnelle sélectionnée.
+Portfolio en français et en anglais : Stiddi, Getaround et Speed Dating, avec formation, compétences et expérience professionnelle sélectionnée.
 
 ## Fichiers
 
-- `index.html` : page complète, styles intégrés, adaptée aux écrans mobiles.
+- `index.html` : version française, styles intégrés, adaptée aux écrans mobiles.
+- `en.html` : traduction anglaise complète, accessible via le sélecteur FR / EN en haut de page.
 - `assets/anastasiia-portrait.png` : photographie fournie par l’auteure pour le portfolio.
 - `assets/stiddi-brand.jpg` : visuel original de Stiddi fourni par l’auteure.
 - `.nojekyll` : publication des fichiers statiques sans traitement Jekyll.
