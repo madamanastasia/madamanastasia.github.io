@@ -1,6 +1,6 @@
 # Portfolio · GitHub Pages
 
-Portfolio en français : Stiddi, MapToSelf, Getaround et Speed Dating, avec formation, compétences et expérience professionnelle sélectionnée.
+Portfolio en français : Stiddi, Getaround et Speed Dating, avec formation, compétences et expérience professionnelle sélectionnée.
 
 ## Fichiers
 
