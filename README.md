@@ -1,6 +1,8 @@
 # Portfolio · GitHub Pages
 
-Portfolio en français et en anglais : Stiddi, Getaround et Speed Dating, avec formation, compétences et expérience professionnelle sélectionnée.
+Portfolio en français et en anglais : Stiddi et Getaround, avec formation, compétences et expérience professionnelle sélectionnée.
+
+Le projet Speed Dating est temporairement masqué dans les deux versions. Son contenu est conservé dans `<template id="speed-dating-project">`. Pour le réafficher, retirer uniquement les balises `<template>` et `</template>` qui entourent son article.
 
 ## Fichiers
 
