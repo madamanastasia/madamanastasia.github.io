@@ -14,7 +14,7 @@ Aucune installation ni compilation n’est nécessaire.
 
 ## Prochaines améliorations
 
-Ajouter le lien App Store et les détails techniques de Stiddi. Ajouter des captures de l’application pour compléter le visuel de Stiddi si souhaité.
+Stiddi est actuellement en phase de test sur TestFlight. Le lien App Store sera ajouté après sa publication publique. Ajouter des captures de l’application pour compléter le visuel de Stiddi si souhaité.
 
 ## Données publiées
 
