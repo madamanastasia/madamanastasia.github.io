@@ -6,7 +6,7 @@ Portfolio en français et en anglais : Stiddi, Getaround et Speed Dating, avec f
 
 - `index.html` : version française, styles intégrés, adaptée aux écrans mobiles.
 - `en.html` : traduction anglaise complète, accessible via le sélecteur FR / EN en haut de page.
-- `assets/anastasiia-portrait.png` : photographie fournie par l’auteure pour le portfolio.
+- `assets/anastasiia-portrait.jpg` : photographie fournie par l’auteure pour le portfolio.
 - `assets/stiddi-brand.jpg` : visuel original de Stiddi fourni par l’auteure.
 - `.nojekyll` : publication des fichiers statiques sans traitement Jekyll.
 
