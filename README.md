@@ -16,7 +16,7 @@ Aucune installation ni compilation n’est nécessaire.
 
 ## Prochaines améliorations
 
-Stiddi est actuellement en phase de test sur TestFlight. Le lien App Store sera ajouté après sa publication publique. Ajouter des captures de l’application pour compléter le visuel de Stiddi si souhaité.
+Stiddi est disponible sous forme de Mini App Telegram : https://stiddi.app/start. Ajouter des captures de la Mini App pour compléter le visuel de Stiddi si souhaité.
 
 ## Données publiées
 
@@ -40,3 +40,4 @@ python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
 Ouvrir `http://127.0.0.1:4173/`.
+
