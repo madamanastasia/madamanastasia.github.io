@@ -40,4 +40,3 @@ python3 -m http.server 4173 --bind 127.0.0.1
 ```
 
 Ouvrir `http://127.0.0.1:4173/`.
-
